@@ -1,0 +1,78 @@
+header{
+    background-color: #0e0b0b;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    
+}
+header nav ul{
+    text-align: center;
+  
+    /* top: 0; */
+
+}
+header nav ul li{
+    display: inline-block;
+    margin-left: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+
+}
+header nav ul li a{
+    list-style-type: none;
+    text-decoration: none;
+    color: white;
+}
+.section-article{
+    display: flex;
+    align-items: center;
+    margin: 50px;
+}
+.section-article section{
+    margin: 60px;
+
+}
+.section-article section div{
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+.section-article article{
+    font-size: 70px;
+    /* margin: 40px; */
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image-space img{
+    max-width: 100%;
+}
+.image-space div{
+    height: 200px;
+    background-color: #0c0101b9;
+   margin-top: 80px;
+   margin-bottom: 80px;
+}
+.mission-space {
+    
+    margin-left: 50px;
+}
+.mission-space article{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Blog{
+    height: 200px;
+    background-color: #0c0101b9;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.core-value{
+    margin-left: 50px;
+}
+.core-value article{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    margin-left: 173px;
+}
